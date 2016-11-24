@@ -32,3 +32,4 @@ To use AI from this framework in a custom game, simply copy the entire scripts/v
 AIManager:AttachAI( 'ai_name', unit )
 ```
 This will load the AI named ai_name from AI/UserAI/ai_name and attach it to unit.
+test
